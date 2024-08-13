@@ -1131,6 +1131,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Tiles](https://freemacsoft.net/tiles/) - Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar. ![Freeware][Freeware Icon]
 * [Total Spaces](http://totalspaces.binaryage.com/) - Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.
 * [yabai](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
+* [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. Loop is a macOS app that simplifies window management for you. You can effortlessly choose your window direction using a radial menu triggered by a simple key press, and customize it according to your preferences with personalized colors and settings. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 
 ### Password Management
 
